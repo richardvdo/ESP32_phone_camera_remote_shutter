@@ -17,8 +17,8 @@
   
 */
 
-#define __BUTTONPIN 39
-#define __MANUFACTURER "Michael Ruck"
+#define __BUTTONPIN 23
+#define __MANUFACTURER "richardvdo"
 #define __BT_NAME "cam-remote-button"
 
 /*

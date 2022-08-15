@@ -143,7 +143,7 @@ void setup() {
   Serial.println("Starting BLE works!");
 
   // The Button
-  pinMode(__BUTTONPIN, INPUT);
+  pinMode(__BUTTONPIN, INPUT_PULLUP);
   attachInterrupt(digitalPinToInterrupt(__BUTTONPIN), pushButton, FALLING);
 
   // LED
