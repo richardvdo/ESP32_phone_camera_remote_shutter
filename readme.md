@@ -20,7 +20,7 @@ Due to its simplicity, there is no wiring diagram or schematic. Just have a look
 - ESP32 mini, or any other ESP32.
 - Battery compartment 4.5V (3xAAA).
 - Tactile switch button.
-- Pull up resistor 10k to 50k will work.
+- ~~Pull up resistor 10k to 50k will work.~~ (use internal pull up resistor)
 - Double sided adhesive tape.
 
 ### Ressources:
